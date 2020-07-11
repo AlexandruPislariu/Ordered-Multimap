@@ -4,6 +4,7 @@ Abstract Data Type Project
 Concepts used:
 Containers (Ordered MultiMap)
 Abstract Data Type
-Data Structure (I used a Binary Search Tree(BST) for implementation and linked lists on array for representation)
+Binary Search Tree( I used BST as data structure)
+Linked lists on array( I used linked lists on array to represent BST)
 ~
 
